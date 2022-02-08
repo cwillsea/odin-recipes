@@ -1,0 +1,28 @@
+h1 {
+    color: rgb(190, 9, 9);
+    background-color: rgb(172, 218, 223);
+    font-family: cursive
+}
+
+p {
+    font-family: 'Brush Script MT';
+    color: blue;
+    font-size: 20px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.home {
+    text-align: center;
+}
+
+li {
+    text-align: left;
+}
+
+* {
+    color: maroon
+}
